@@ -1,0 +1,25 @@
+*{
+    text-align: center;
+}
+#red{
+    color:red;
+}
+#blue{
+    color:rgb(40, 158, 194);
+}
+#yellow{
+    color:yellow;
+}
+#orange{
+    color:orange;
+}
+#green{
+color:green;
+}
+*{
+  font-weight:normal;
+}
+img{
+    height:200px;
+    width:200px;
+}
